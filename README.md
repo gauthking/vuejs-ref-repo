@@ -1,4 +1,4 @@
-# vue-starter-spa
+# vue-js-3-learn
 
 ## Project setup
 ```
